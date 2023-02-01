@@ -7,7 +7,6 @@
 
 
 # 🚀 VIMO
-<img src=https://ifh.cc/g/KWNrfV.png />
 
 
 영상을 보며 무언가를 기록해두고 싶었던 적이 있나요?
@@ -31,12 +30,9 @@
 ![](https://img.shields.io/badge/BACK-Express-092E20?style=for-the-badge)
 
 
-<img width="1781" alt="TechStack" src="https://ifh.cc/g/w9u22F.jpg">
-
 # 🔨 Architecture
 
 ### Client-Side Storyboard flow chart
-![ezgif com-resize](https://ifh.cc/g/Nj2R1l.jpg)
 
 # 🗣 우리를 소개합니다.
 
